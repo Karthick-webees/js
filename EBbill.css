@@ -1,0 +1,35 @@
+#body{
+    background-color: rgb(137, 199, 140);
+
+}
+.form{
+    padding: 5em;
+    align-items: flex;
+}
+.boo{
+    margin-top: 20px;
+    border-radius: 2px;
+    height: 40px;
+    font-weight: 600;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    border: #696868;
+}
+.btn .btn-primary{
+    --bs-btn-padding-y: .25rem; 
+    --bs-btn-padding-x: .5rem; 
+    --bs-btn-font-size: .75rem;
+}
+.card{
+    width: fit-content;
+    height: fit-content;
+    position:absolute;
+    margin: auto;
+    align-items: center;
+    background: #696868;
+    font-size: 2em, 2em, 2em, 2em;
+}
+#result{
+    border-radius: 5px;
+    border: #696868;
+}
